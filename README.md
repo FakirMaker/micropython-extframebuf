@@ -10,9 +10,9 @@ If you want to add new character or change the default font, you should modify t
 How to compile it:
 
 	Since it is written in native C, micropython cannot directly process it. It must be compiled. 
-	If you are not familiar with native C for micropython check out this video.
+	If you are not familiar with native C for micropython check out <a href="https://www.youtube.com/watch?v=1ZKWVj9UOQg">this video</a>.
 	
-	https://www.youtube.com/watch?v=1ZKWVj9UOQg
+	
 
 How to use compiled module:
 
