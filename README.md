@@ -16,5 +16,6 @@ How to compile it:
 
 How to use compiled module:
 
-	Micropython supports precompiled mpy files. Just copy the extframebuf.mpy to your project directory and just import like a usual py module.
+	Micropython supports precompiled mpy files. 
+	Just copy the extframebuf.mpy to your project directory and just import like a usual py module.
 	Check the example.
