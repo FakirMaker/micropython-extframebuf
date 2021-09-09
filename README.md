@@ -1,7 +1,7 @@
 # micropython-extframebuf
 
 Micropython renders images via built-in framebuf library.
-It is very usefull and time saving also provides performance benefits, but it has some limittions like only ascii characters can be rendered by text function.
+It is very usefull and time saving also provides performance benefits, but it has some limitations like only ascii characters can be rendered by text function.
 This library is just a slight modification of built-in framebuf library to show how extra characters can be added to charset and shrink font size from
 8x8 to 7x8 for handsome looking.
 
